@@ -3,6 +3,7 @@
 	<name>robo_rally_c</name>
 	<comment></comment>
 	<projects>
+		<project>common_c</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
